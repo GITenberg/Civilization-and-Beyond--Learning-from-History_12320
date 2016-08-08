@@ -1,0 +1,25 @@
+_repo: Civilization-and-Beyond--Learning-from-History_12320
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nearing, Scott
+    birthdate: 1883
+    deathdate: 1983
+    gutenberg_agent_id: '4313'
+    url: http://www.gutenberg.org/2009/agents/4313
+    wikipedia: http://en.wikipedia.org/wiki/Scott_Nearing
+description: Cover -- Contents.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CB'
+- !lcsh 'Civilization -- History'
+- GITenberg
+title: 'Civilization and Beyond: Learning from History'
+url: http://www.gutenberg.org/ebooks/12320
